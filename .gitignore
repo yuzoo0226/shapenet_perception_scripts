@@ -1,0 +1,8 @@
+# white list
+*
+**
+!*/
+
+!/.gitignore
+!/scripts/**.sh
+!/README.md
